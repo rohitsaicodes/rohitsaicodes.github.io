@@ -1,0 +1,214 @@
+{
+  "refrigerators": [
+    {
+      "model": "Frigidaire FG4H2272UF",
+      "stock": true,
+      "quantity_on_hand": 10,
+      "size": "22 cubic feet",
+      "color": "Stainless Steel"
+    },
+    {
+      "model": "LG LMXS28596S",
+      "stock": true,
+      "quantity_on_hand": 5,
+      "size": "28 cubic feet",
+      "color": "Stainless Steel"
+    },
+    {
+      "model": "Whirlpool WRF535SWHZ",
+      "stock": true,
+      "quantity_on_hand": 7,
+      "size": "25 cubic feet",
+      "color": "Stainless Steel"
+    },
+    {
+      "model": "Samsung RF28T5021SR",
+      "stock": true,
+      "quantity_on_hand": 8,
+      "size": "28 cubic feet",
+      "color": "Stainless Steel"
+    },
+    {
+      "model": "GE GNE27JSMSS",
+      "stock": true,
+      "quantity_on_hand": 3,
+      "size": "27 cubic feet",
+      "color": "Stainless Steel"
+    },
+    {
+      "model": "Frigidaire FFTR1821TS",
+      "stock": true,
+      "quantity_on_hand": 12,
+      "size": "18 cubic feet",
+      "color": "Stainless Steel"
+    },
+    {
+      "model": "LG LFXS26973S",
+      "stock": true,
+      "quantity_on_hand": 6,
+      "size": "26 cubic feet",
+      "color": "Stainless Steel"
+    },
+    {
+      "model": "Whirlpool WRS555SIHZ",
+      "stock": true,
+      "quantity_on_hand": 4,
+      "size": "25 cubic feet",
+      "color": "Stainless Steel"
+    },
+    {
+      "model": "Samsung RF28R7351SR",
+      "stock": true,
+      "quantity_on_hand": 9,
+      "size": "28 cubic feet",
+      "color": "Stainless Steel"
+    },
+    {
+      "model": "GE GTE18ISHSS",
+      "stock": true,
+      "quantity_on_hand": 2,
+      "size": "18 cubic feet",
+      "color": "Stainless Steel"
+    },
+    {
+      "model": "Frigidaire FGSC2335TF",
+      "stock": true,
+      "quantity_on_hand": 7,
+      "size": "22 cubic feet",
+      "color": "Stainless Steel"
+    },
+    {
+      "model": "LG LTCS24223S",
+      "stock": true,
+      "quantity_on_hand": 4,
+      "size": "24 cubic feet",
+      "color": "Stainless Steel"
+    },
+    {
+      "model": "Whirlpool WRX735SDHZ",
+      "stock": true,
+      "quantity_on_hand": 6,
+      "size": "25 cubic feet",
+      "color": "Stainless Steel"
+    },
+    {
+      "model": "Samsung RS27T5200SR",
+      "stock": true,
+      "quantity_on_hand": 11,
+      "size": "27 cubic feet",
+      "color": "Stainless Steel"
+    },
+    {
+      "model": "GE GNE25JSKSS",
+      "stock": true,
+      "quantity_on_hand": 11,
+      "size": "27 cubic feet",
+      "color": "Stainless Steel"
+    },
+    {
+      "model": "Frigidaire FG4H2272UF",
+      "stock": true,
+      "quantity_on_hand": 10,
+      "size": "22 cubic feet",
+      "color": "Stainless Steel"
+    },
+    {
+      "model": "LG LMXS28596S",
+      "stock": true,
+      "quantity_on_hand": 5,
+      "size": "28 cubic feet",
+      "color": "Stainless Steel"
+    },
+    {
+      "model": "Whirlpool WRF535SWHZ",
+      "stock": true,
+      "quantity_on_hand": 7,
+      "size": "25 cubic feet",
+      "color": "Stainless Steel"
+    },
+    {
+      "model": "Samsung RF28T5021SR",
+      "stock": true,
+      "quantity_on_hand": 8,
+      "size": "28 cubic feet",
+      "color": "Stainless Steel"
+    },
+    {
+      "model": "GE GNE27JSMSS",
+      "stock": true,
+      "quantity_on_hand": 3,
+      "size": "27 cubic feet",
+      "color": "Stainless Steel"
+    },
+    {
+      "model": "Frigidaire FFTR1821TS",
+      "stock": true,
+      "quantity_on_hand": 12,
+      "size": "18 cubic feet",
+      "color": "Stainless Steel"
+    },
+    {
+      "model": "LG LFXS26973S",
+      "stock": true,
+      "quantity_on_hand": 6,
+      "size": "26 cubic feet",
+      "color": "Stainless Steel"
+    },
+    {
+      "model": "Whirlpool WRS555SIHZ",
+      "stock": true,
+      "quantity_on_hand": 4,
+      "size": "25 cubic feet",
+      "color": "Stainless Steel"
+    },
+    {
+      "model": "Samsung RF28R7351SR",
+      "stock": true,
+      "quantity_on_hand": 9,
+      "size": "28 cubic feet",
+      "color": "Stainless Steel"
+    },
+    {
+      "model": "GE GTE18ISHSS",
+      "stock": true,
+      "quantity_on_hand": 2,
+      "size": "18 cubic feet",
+      "color": "Stainless Steel"
+    },
+    {
+      "model": "Frigidaire FGSC2335TF",
+      "stock": true,
+      "quantity_on_hand": 7,
+      "size": "22 cubic feet",
+      "color": "Stainless Steel"
+    },
+    {
+      "model": "LG LTCS24223S",
+      "stock": true,
+      "quantity_on_hand": 4,
+      "size": "24 cubic feet",
+      "color": "Stainless Steel"
+    },
+    {
+      "model": "Whirlpool WRX735SDHZ",
+      "stock": true,
+      "quantity_on_hand": 6,
+      "size": "25 cubic feet",
+      "color": "Stainless Steel"
+    },
+    {
+      "model": "Samsung RS27T5200SR",
+      "stock": true,
+      "quantity_on_hand": 11,
+      "size": "27 cubic feet",
+      "color": "Stainless Steel"
+    },
+    {
+      "model": "GE GNE25JSKSS",
+      "stock": true,
+      "quantity_on_hand": 11,
+      "size": "27 cubic feet",
+      "color": "Stainless Steel"
+    }
+  ]
+}
